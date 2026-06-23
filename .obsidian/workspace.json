@@ -11,10 +11,14 @@
             "id": "4752c70bf57950c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Section 1. Introduction to k6 & Performance Testing/6. Setting Up Your K6 Testing Environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Setting Up Your K6 Testing Environment"
             }
           }
         ]
@@ -179,8 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "4752c70bf57950c8",
+  "active": "7f2f25de3873c759",
   "lastOpenFiles": [
+    "Section 1. Introduction to k6 & Performance Testing/5. Why Choose k6 for Performance Testing.md",
+    "Section 1. Introduction to k6 & Performance Testing/4. The Evaluation of Load Testing Tools.md",
+    "Section 1. Introduction to k6 & Performance Testing/3. GitHub Code for Demo.md",
+    "Section 1. Introduction to k6 & Performance Testing/2. Introduction to Performance Testing.md",
+    "Section 1. Introduction to k6 & Performance Testing/1. Introduction.md",
     "11. QuickPizza Application - Real World Use Cases/95. QuickPizza Browser - Implementing Hybrid Approaches.md",
     "Images/9. Practical Demos and Use Cases/63.png",
     "19. Execution Variables in K6.md",
@@ -203,10 +212,6 @@
     "11. QuickPizza Application - Real World Use Cases/80. QuickPizza Foundation - Setting Thresholds.md",
     "11. QuickPizza Application - Real World Use Cases/79. QuickPizza Foundation - Tracking Metrics.md",
     "11. QuickPizza Application - Real World Use Cases/78. QuickPizza Foundation - Managing Lifecycle.md",
-    "11. QuickPizza Application - Real World Use Cases/77. QuickPizza Foundation - Implementing Stages.md",
-    "11. QuickPizza Application - Real World Use Cases/76. QuickPizza Foundation - Getting Started.md",
-    "11. QuickPizza Application - Real World Use Cases/75. QuickPizza Application Setup.md",
-    "10. Advanced Concepts and Techniques/74. Streaming Output to the Cloud.md",
     "Images/8. Advanced K6 Cloud Testing/61-3.png",
     "Images/8. Advanced K6 Cloud Testing/61-2.png",
     "Images/8. Advanced K6 Cloud Testing/61-1.png",
@@ -220,7 +225,7 @@
     "4. Scenario Planning & Execution in K6",
     "3. Understanding k6 Fundamentals",
     "2. k6 Basics Your First Steps",
-    "1. Introduction to k6 & Performance Testing",
+    "Section 1. Introduction to k6 & Performance Testing",
     "11. QuickPizza Application - Real World Use Cases",
     "10. Advanced Concepts and Techniques",
     "Images/9. Practical Demos and Use Cases",
