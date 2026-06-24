@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 4. Scenario Planning & Execution in K6/34. Combining Graceful Stop and Rampdown.md",
+                "file": "Section 5. Comprehensive Guide to K6 Executor/41. Using a Ramping Arrival Rate Executor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34. Combining Graceful Stop and Rampdown"
+              "title": "41. Using a Ramping Arrival Rate Executor"
             }
           }
         ]
@@ -185,8 +185,21 @@
   },
   "active": "19d2bf19c803d1bc",
   "lastOpenFiles": [
-    "Section 4. Scenario Planning & Execution in K6/33. Implementing Graceful Rampdown in Scenarios.md",
+    "Images/5. Comprehensive Guide to K6 Executor/41. Using a Ramping Arrival Rate Executor.png",
+    "Section 5. Comprehensive Guide to K6 Executor/41. Using a Ramping Arrival Rate Executor.md",
+    "Section 5. Comprehensive Guide to K6 Executor/40. Implementing a Constant Arrival Rate Executor.md",
+    "Images/5. Comprehensive Guide to K6 Executor/40. Implementing a Constant Arrival Rate Executor.png",
+    "Section 5. Comprehensive Guide to K6 Executor/39. Ramping VUs with Executors.md",
+    "Images/5. Comprehensive Guide to K6 Executor/39. Ramping VUs with Executors.png",
+    "Section 5. Comprehensive Guide to K6 Executor/38. Maintaining Constant VUs with Executors.md",
+    "Images/5. Comprehensive Guide to K6 Executor/38. Maintaining Constant VUs with Executors.png",
+    "Section 5. Comprehensive Guide to K6 Executor/37. Setting Up Executors with Per VU Iterations.md",
+    "Images/5. Comprehensive Guide to K6 Executor/37. Setting Up Executors with Per VU Iterations.png",
+    "Section 5. Comprehensive Guide to K6 Executor/36. Using Executors with Shared Iterations.md",
+    "Images/5. Comprehensive Guide to K6 Executor/36. Using Executors with Shared Iterations.png",
+    "Section 5. Comprehensive Guide to K6 Executor/35. Introduction to Executors.md",
     "Section 4. Scenario Planning & Execution in K6/34. Combining Graceful Stop and Rampdown.md",
+    "Section 4. Scenario Planning & Execution in K6/33. Implementing Graceful Rampdown in Scenarios.md",
     "Section 4. Scenario Planning & Execution in K6/32. How to Gracefully Stop a Scenario.md",
     "Section 4. Scenario Planning & Execution in K6/31. Implementing Different Load Patterns.md",
     "Section 4. Scenario Planning & Execution in K6/30. Exploring Multiple Scenarios.md",
@@ -203,24 +216,11 @@
     "Section 3. Understanding k6 Fundamentals/20. Advanced Custom Metrics and Threshold Conditions.md",
     "Section 3. Understanding k6 Fundamentals/19. Setting Basic Threshold Conditions in K6.md",
     "Section 3. Understanding k6 Fundamentals/18. A Deep Dive into All Four K6 Custom Metrics.md",
-    "Section 3. Understanding k6 Fundamentals/17. Creating Custom Metrics in K6.md",
-    "Section 3. Understanding k6 Fundamentals/16. Built-in Metrics An Overview.md",
-    "Section 3. Understanding k6 Fundamentals/15. Different Check Conditions Explained.md",
-    "Section 2. k6 Basics Your First Steps/Quiz 1 - k6 Basics Quiz - 1.md",
-    "Section 2. k6 Basics Your First Steps/14. Generating and Analyzing Output Summary.md",
-    "Section 2. k6 Basics Your First Steps/13. Exploring Various Options for Virtual Users.md",
-    "Section 2. k6 Basics Your First Steps/12. Implementing Virtual Users in Stages.md",
-    "Section 2. k6 Basics Your First Steps/11. Fixed Iterations and Virtual Users Hands-On Guide.md",
     "Images/9. Practical Demos and Use Cases/63.png",
     "Images/8. Advanced K6 Cloud Testing/61-3.png",
     "Images/8. Advanced K6 Cloud Testing/61-2.png",
     "Images/8. Advanced K6 Cloud Testing/61-1.png",
     "Images/8. Advanced K6 Cloud Testing/60-2.png",
-    "Images/8. Advanced K6 Cloud Testing/60-1.png",
-    "Images/8. Advanced K6 Cloud Testing/59.png",
-    "Images/8. Advanced K6 Cloud Testing/58-4.png",
-    "Images/8. Advanced K6 Cloud Testing/58-3.png",
-    "Images/8. Advanced K6 Cloud Testing/58-2.png",
     "12. Grafana Introduction",
     "Section 4. Scenario Planning & Execution in K6",
     "Section 3. Understanding k6 Fundamentals",
