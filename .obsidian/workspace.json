@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09b3a17adbb78e75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 12. Grafana Introduction/96. Grafana Cloud Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "96. Grafana Cloud Introduction"
-            }
-          },
-          {
-            "id": "5010e321181b4472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 12. Grafana Introduction/97. Grafana Dashboard Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "97. Grafana Dashboard Introduction"
-            }
-          },
-          {
             "id": "3e19cb4688f0ba8c",
             "type": "leaf",
             "state": {
@@ -48,9 +20,23 @@
               "icon": "lucide-file",
               "title": "98. Grafana First Dashboard"
             }
+          },
+          {
+            "id": "47795e5166a77f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 13. Conclusion/99. Conclusion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99. Conclusion"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f2f25de3873c759",
+  "active": "47795e5166a77f3a",
   "lastOpenFiles": [
-    "Section 12. Grafana Introduction/97. Grafana Dashboard Introduction.md",
     "Section 12. Grafana Introduction/98. Grafana First Dashboard.md",
+    "Section 13. Conclusion/99. Conclusion.md",
+    "Section 13. Conclusion",
+    "Section 12. Grafana Introduction/97. Grafana Dashboard Introduction.md",
     "Section 12. Grafana Introduction/96. Grafana Cloud Introduction.md",
     "Section 11. QuickPizza Application - Real World Use Cases/95. QuickPizza Browser - Implementing Hybrid Approaches.md",
     "Section 12. Grafana Introduction",
@@ -240,7 +228,6 @@
     "Section 11. QuickPizza Application - Real World Use Cases/76. QuickPizza Foundation - Getting Started.md",
     "Section 11. QuickPizza Application - Real World Use Cases/75. QuickPizza Application Setup.md",
     "Section 1. Introduction to k6 & Performance Testing/3. GitHub Code for Demo.md",
-    "Section 10. Advanced Concepts and Techniques/74. Streaming Output to the Cloud.md",
     "Images/Section 9. Practical Demos and Use Cases/63. Demo 1 Implementing Basic Authentication.png",
     "Images/Section 8. Advanced K6 Cloud Testing/61. Setting a Baseline for Your Tests 3.png",
     "Images/Section 8. Advanced K6 Cloud Testing/61. Setting a Baseline for Your Tests 2.png",
@@ -259,7 +246,6 @@
     "Section 11. QuickPizza Application - Real World Use Cases",
     "Section 10. Advanced Concepts and Techniques",
     "Images/Section 9. Practical Demos and Use Cases",
-    "Section 9. Practical Demos and Use Cases",
     "Untitled.canvas"
   ]
 }
