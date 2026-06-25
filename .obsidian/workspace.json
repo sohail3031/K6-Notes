@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 9. Practical Demos and Use Cases/70. Demo 8 Performing CRUD Operations.md",
+                "file": "Section 10. Advanced Concepts and Techniques/74. Streaming Output to the Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "70. Demo 8 Performing CRUD Operations"
+              "title": "74. Streaming Output to the Cloud"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "19d2bf19c803d1bc",
   "lastOpenFiles": [
+    "Section 10. Advanced Concepts and Techniques/73. Creating Custom Metrics.md",
+    "Section 10. Advanced Concepts and Techniques/72. Handling Dropped Iterations.md",
+    "Section 10. Advanced Concepts and Techniques/71. Open vs Closed Models Explained.md",
+    "Section 9. Practical Demos and Use Cases/70. Demo 8 Performing CRUD Operations.md",
     "Section 9. Practical Demos and Use Cases/69. Demo 7 Working with Web Sockets.md",
     "Section 9. Practical Demos and Use Cases/68. Demo 6 Handling Multi-Part Uploads.md",
     "Section 9. Practical Demos and Use Cases/67. Demo 5 Managing Cookie Life Cycle in K6.md",
@@ -217,17 +221,13 @@
     "Section 8. Advanced K6 Cloud Testing/55. Using the K6 Cloud Script Builder.md",
     "Section 8. Advanced K6 Cloud Testing/54. Executing Tests in K6 Cloud.md",
     "Section 7. Stream Output & Integrations/53. K6 Grafana Integration Demo.md",
-    "Section 7. Stream Output & Integrations/52. K6 Prometheus Integration Demo.md",
-    "Section 7. Stream Output & Integrations/51. Getting Started with Grafana Cloud.md",
-    "Section 7. Stream Output & Integrations/50. Introduction to Prometheus and Grafana.md",
-    "Section 7. Stream Output & Integrations/49. Streaming Output to CSV and JSON.md",
     "12. Grafana Introduction",
     "Section 4. Scenario Planning & Execution in K6",
     "Section 3. Understanding k6 Fundamentals",
     "Section 2. k6 Basics Your First Steps",
     "Section 1. Introduction to k6 & Performance Testing",
     "11. QuickPizza Application - Real World Use Cases",
-    "10. Advanced Concepts and Techniques",
+    "Section 10. Advanced Concepts and Techniques",
     "Images/Section 9. Practical Demos and Use Cases",
     "Section 9. Practical Demos and Use Cases",
     "Images/Section 8. Advanced K6 Cloud Testing",
