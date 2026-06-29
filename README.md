@@ -467,14 +467,6 @@ Instead of learning k6 only at a theoretical level, this repository captures **b
 
 ---
 
-# Acknowledgment
+# Disclaimer
 
-This repository was created as part of my learning journey through a **complete Performance Testing with k6 course**. The goal is to keep a well-structured reference of concepts, scripts, demos, and integrations that can be revisited later for practice, revision, and real project use.
-
----
-
-## Final Note
-
-If you are learning **k6**, **performance testing**, or **Grafana-based test observability**, I hope this repository helps you build both conceptual clarity and practical hands-on confidence.
-
-
+This repository was created as part of my learning journey through a **complete Performance Testing with k6 course**. The goal is to keep a well-structured reference of concepts, scripts, demos, and integrations that can be revisited later for practice, revision, and real project use. They are intended for educational and revision purposes and have been organized in my own words for easier understanding.
